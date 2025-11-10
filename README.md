@@ -28,9 +28,11 @@ python -m pip install -r requirements.txt
 
 To run the size detection application:
 ```powershell
-python .\size_detect.py```
+python .\size_detect.py 
+```
 
 To run the try on application:
+
 ```powershell
 python .\try_on.py
 ```
